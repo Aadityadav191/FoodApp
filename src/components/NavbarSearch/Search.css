@@ -1,0 +1,23 @@
+.search-dialog {
+  position: absolute;
+  top: 60px;
+  background-color: white;
+  width: 250px;
+  max-height: 200px;
+  overflow-y: auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 10px;
+  z-index: 999;
+  cursor: pointer;
+}
+
+.search-dialog-item {
+  padding: 10px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.search-dialog-item:hover {
+  background-color: #f0f0f0;
+}
