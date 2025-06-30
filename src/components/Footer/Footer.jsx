@@ -10,9 +10,17 @@ const Footer = () => {
                  <img src={assets.logo}  className='footer-logo' alt='' />
                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit, animi!</p>
                  <div className="footer-social-icons">
+                    <a href="https://www.facebook.com/Aadityadav.comm" target="_blank" rel="noopener noreferrer">
                     <img src={assets.facebook_icon} alt="" />
+                    </a>
+
+                    <a href="https://www.instagram.com/aadityadavvv/" target="_blank" rel="noopener noreferrer">
                     <img src={assets.twitter_icon} alt="" />
+                    </a>
+
+                    <a href="https://www.linkedin.com/in/aadit-yadav-b17636258/" target="_blank" rel="noopener noreferrer">
                     <img src={assets.linkedin_icon} alt="" />
+                    </a>
                  </div>
             </div>
 
@@ -32,14 +40,14 @@ const Footer = () => {
                 <h2>GET IN TOUCH</h2>
 
                 <ul>
-                    <li>+1-232-2323</li>
-                    <li>contact@gmail.com</li>
+                    <li>9821747900</li>
+                    <li>aadityadav.dev@gmail.com</li>
                 </ul>
             </div>
            
         </div>
          <hr />
-         <p>Copyright 2025 @ by App.com </p>
+         <p>All rights reserved. © 2025 Copyright@2025 | Powered by AADITYADAV </p>
       </div>
 
     </>
