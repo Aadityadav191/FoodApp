@@ -22,4 +22,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed (recommended version
 
 ```bash
 git clone <your-repo-url>
+
+```bash
 cd foodapp
+
+
+```bash
+npm install
