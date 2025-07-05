@@ -1,31 +1,28 @@
-# FoodApp
+# 🍔 FoodApp
 
-FoodApp is a React-based web application built with Vite, featuring smooth animations with Framer Motion and client-side routing using React Router.
+**FoodApp** is a modern, fast, and responsive web application built with **React 19** and **Vite**, designed for food enthusiasts and developers alike. It features smooth transitions with **Framer Motion**, client-side navigation via **React Router**, and follows best practices with **ESLint** for clean, maintainable code.
 
-## Features
+---
 
-- React 19 for building UI components
-- Client-side routing with React Router DOM
-- Animations powered by Framer Motion
-- Fast development and build process with Vite
-- ESLint for code quality and consistency
+## 🚀 Features
 
-## Getting Started
+- ⚛️ Built with **React 19** – Declarative and component-based UI
+- 🧭 **React Router DOM** – Fast and seamless client-side routing
+- 🎞️ **Framer Motion** – Beautiful animations with ease
+- ⚡ **Vite** – Super-fast development and optimized production builds
+- 🧹 **ESLint** – Enforces code quality and consistency
 
-### Prerequisites
+---
 
-Make sure you have [Node.js](https://nodejs.org/) installed (recommended version 18+).
+## 📦 Getting Started
 
-### Installation
+### ✅ Prerequisites
 
-1. Clone the repository
+- **Node.js** (version 18 or later) – [Download Node.js](https://nodejs.org/)
 
-```bash
-git clone <your-repo-url>
+### 📥 Installation
 
-```bash
-cd foodapp
-
+1. **Clone the repository**
 
 ```bash
-npm install
+git clone https://github.com/Aadityadav191/FoodApp.git
