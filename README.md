@@ -26,3 +26,7 @@
 
 ```bash
 git clone https://github.com/Aadityadav191/FoodApp.git
+
+cd FoodApp
+
+npm install
